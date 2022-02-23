@@ -6,7 +6,7 @@ Language: html and CSS
 
 Others utilized: FontAwesome, Google Fonts, Page Ruler redux, Colorzilla
 
-Clone-coded Kakao Talk's front-end
+Clone-coded Kakao Talk's front-end while learning html and CSS
 
 Learned Concepts and Implemented Functions:
 
